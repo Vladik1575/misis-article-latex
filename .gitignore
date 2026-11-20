@@ -23,3 +23,8 @@ dist/
 *~
 .idea/
 .vscode/
+
+# Эксперименты: сырые данные Starbucks (Kaggle) не коммитим
+experiments/data/
+experiments/.venv/
+!figures/*.pdf
